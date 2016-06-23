@@ -1,0 +1,2 @@
+url: "http://pivotal.io"
+springUrl: "http://spring.io"
