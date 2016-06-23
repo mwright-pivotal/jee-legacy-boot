@@ -14,12 +14,12 @@
         </div>
         <div>
             <form:label path="firstName"><spring:message code="contact.firstName" /></form:label>
-            <form:password path="firstName" />
+            <form:input path="firstName" />
             <form:errors path="firstName" />
         </div>
         <div>
             <form:label path="lastName"><spring:message code="contact.lastName" /></form:label>
-            <form:password path="lastName" />
+            <form:input path="lastName" />
             <form:errors path="lastName" />
         </div>
         <div>
