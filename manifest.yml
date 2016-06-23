@@ -1,0 +1,8 @@
+---
+memory: 512M
+instances: 1
+applications:
+- name: legacy
+  path: target/legacy-0.0.1-SNAPSHOT.jar
+  services:
+  - mysql
